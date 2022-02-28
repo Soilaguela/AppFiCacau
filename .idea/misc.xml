@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/drawable/button_background_blue.xml" value="0.13854166666666667" />
         <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/drawable/ic_add_img.xml" value="0.1" />
+        <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/drawable/ic_back_img.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/drawable/ic_login_hero.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/drawable/ic_register_hero.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/35192/AndroidStudioProjects/AppFiCacau/app/src/main/res/layout/activity_register.xml" value="0.1" />
       </map>
     </option>
   </component>

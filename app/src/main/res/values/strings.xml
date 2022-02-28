@@ -2,4 +2,6 @@
     <string name="app_name">AppFiCacau</string>
     <string name="login_email_hint">Email</string>
     <string name="login_password_hint">Password</string>
+    <string name="already_nhave_an_naccount">Already\nhave an \nAccount ?</string>
+    <string name="todo">TODO</string>
 </resources>
